@@ -1,5 +1,7 @@
 # Meth
 
+> "They're minerals, Marie."
+
 Simple C macro for creating "methods".
 
 Maybe in the future I could extend a C compiler like TCC to just allow methods.
